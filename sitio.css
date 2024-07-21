@@ -1,0 +1,97 @@
+*{
+    padding:0px;
+    margin:0px;
+    background-color:blue;
+}
+#header{
+        margin:auto;
+        width:200px;
+}
+ul,ol{
+    list-style:none;
+}
+.nav  li a{
+    background-color:white;
+    color:blue;
+    text-decoration:none;
+    padding:30px 10px;
+    display:block;
+    border-color:black;
+}
+.nav> li{
+    float:left;
+}
+.nav li a:hover{
+    background-color:blue;
+}
+
+p{
+    border-radius: 50px;
+    border-color: black;
+    padding: 10px;
+    text-align: justify;
+    
+}
+h2{
+    color: black;
+    background-color: blue;
+    border:solid;
+    border-radius: 50px;
+    border-color: white;
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    color: black;
+    background-color: blue;
+    border:solid;
+    border-radius: 50px;
+    border-color: white;
+    padding: 10px;
+    text-align: center;
+}
+*{
+    padding:0px;
+    margin:0px;
+    background-color: blue;
+}
+#header{
+        margin:auto;
+        width:800px;
+}
+ul,ol{
+    list-style:none;
+}
+.nav  li a{
+    background-color:golden;
+    color:#0f0f0f;
+    text-decoration:none;
+    padding:10px 30px;
+    display:block;
+}
+.nav> li{
+    float:left;
+}
+.nav li a:hover{
+    background-color:turquoise;
+}
+h2{
+    
+    color: black;
+    background-color: turquoise;
+    border:solid;
+    border-radius: 50px;
+    border-color: white;
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    text-shadow: 0cqb;
+    color: black;
+    background-color: turquoise;
+    border:solid;
+    border-radius: 50px;
+    border-color: white;
+    padding: 10px;
+    text-align: center;
+}
